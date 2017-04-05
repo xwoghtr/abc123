@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Slider x:Name="slider" HorizontalAlignment="Left" Height="28" Margin="79,68,0,0" VerticalAlignment="Top" Width="130"/>
+
     </Grid>
 </Window>
